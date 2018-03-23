@@ -1,0 +1,10 @@
+---
+title: A First Blog Post
+subtitle: A sort of hello world for this blog
+description: Testing out org-mode, hakyll, etc.
+tags: meta
+---
+
+* Why a blog?
+
+To share my creative and technical thoughts

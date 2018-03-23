@@ -1,6 +1,0 @@
-<div>
-  <h1 .self><a href="@{HomeR}" style="color:#365135 !important;">(λx.x)(Aidan Nyquist) 
-  <h2 .header>
-    $forall MenuItem label route _ <- navbarLeftFilteredMenuItems
-      <a href="@{route}">#{label}
-  
